@@ -1,3 +1,5 @@
+Index.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,5 +29,30 @@
         <button type="button" a href>Ingresamos Datos</button>
     </a>
    </div>
+</body>
+</html>
+
+
+
+Resultados.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados de datos</title>
+    <script src="https://kit.fontawesome.com/a7170.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+   <div class="dive2">
+     <h1>Resultados</h1>
+    <center>
+        <img src="img/Agu.png" alt="Agumon" width="300">
+    </center>
+    <h2>Bien hecho</h2>
+   </div>
+
 </body>
 </html>
